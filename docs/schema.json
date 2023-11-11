@@ -281,20 +281,7 @@
                                             "Fonske"
                                         ]
                                     },
-                                    "images": {
-                                        "title": "Images associated to the item",
-                                        "type": "array",
-                                        "items": {
-                                            "title": "URLs of the image",
-                                            "type": "string",                     
-                                            "pattern": "^(http|https)://.+$",
-                                            "examples": [
-                                                "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/60men.jpg",
-                                                "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/60men_2.jpg",
-                                                "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/abraham.jpg"
-                                            ]
-                                        }
-                                    },
+                                  
                                     "description": {
                                         "title": "Description of the item",
                                         "type": "string",
