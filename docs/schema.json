@@ -211,7 +211,6 @@
                                     "lon",
                                     "type",
                                     "name",
-                                    "images",
                                     "description"
                                 ],
                                 "properties": {
