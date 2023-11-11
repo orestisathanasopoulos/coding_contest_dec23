@@ -281,14 +281,7 @@
                                         ]
                                     },
                                   
-                                    "description": {
-                                        "title": "Description of the item",
-                                        "type": "string",
-                                        "examples": [
-                                            "Pieter Couterel (1320-1373), mayor of Louvain",
-                                            "Lady running a kot, a typical type of student residence in Leuven"
-                                        ]
-                                    },
+                                  
                                     "more": {
                                         "title": "Additional description",
                                         "type": "string",
