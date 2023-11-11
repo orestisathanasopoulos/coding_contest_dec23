@@ -210,7 +210,7 @@
                                     "lat",
                                     "lon",
                                     "type",
-                                    "name",
+                                    "name"
                 
                                 ],
                                 "properties": {
